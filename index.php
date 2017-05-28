@@ -65,6 +65,11 @@
     <center>
           </center>
 <style>
+
+
+<?php
+mail("zelvekalois@outlook.com","salut","sqdfqsdqsdqsd");
+ ?>
 body{
 background-image: url('https://cdn.discordapp.com/attachments/304628109133479946/304760440003493892/unknown.png');
 }
@@ -583,6 +588,7 @@ tetrisInstances.push(new Tetris(20 * Math.round((w*bWidth)/20), 0, bWidth));
 
   <h1>IMAGINE TON SITE WEB</h1>
   <h2><i>En Construction</i></h2>
+
 
 
 
